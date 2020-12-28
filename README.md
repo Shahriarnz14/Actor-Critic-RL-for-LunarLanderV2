@@ -4,7 +4,6 @@ Advantage Actor Critic Algorithm
 Implementation of Policy-Gradient and Actor Critic Reinforcement Learning Paradign for LunarLander Simulation of OpenAI Gym: <br>
 (1) REINFORCE Policy Gradient Algorithm <br>
 (2) Advantage Actor Critic Algorithm (A2C) <br>
-(3) Classic Efficient (Dynamic-Programming based) Value Iteration and Policy Iteration Methods <br>
 <br>
 <br>
 Experimental Results:
